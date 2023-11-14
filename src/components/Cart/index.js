@@ -32,7 +32,6 @@ const Cart = () => (
                 </button>
                 <CartListView />
                 <CartSummary />
-                {/* TODO: Add your code for Cart Summary here */}
               </div>
             )}
           </div>
